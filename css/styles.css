@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: rgb(178, 228, 245);
+    position: relative;
+    
+}
+h1{
+    color: blueviolet;
+    position: relative;
+    text-align: center;
+        
+}
+img{
+    width: 500px;
+    position: relative;
+    left: 700px;
+}
+p{
+    text-align: justify;
+    position: relative;
+    width: 1000px;
+    height: 100px;
+    left: 400px;
+    padding: 15px;
+}
+h2{
+    color: blueviolet;
+    position: relative;
+    text-align: center;
+}
+
+#otrasM1, #otrasM2 {
+    height: 320px;
+    width: 500px;
+    left: 415px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.icon {
+    
+    width: 50px;
+    left: 840px;
+}
+main{
+    background-color:rgb(178, 228, 245);
+}
+footer{
+    padding-top: 15px;
+    padding-bottom: 15px;
+   background-color:  rgb(151, 193, 207);
+}
